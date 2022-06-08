@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grpc-chat-svc", "grpc-chat-svc\grpc-chat-svc.csproj", "{1F671CC4-333F-4ED8-AC60-062B6115B507}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grpc-chat-client", "grpc-chat-client\grpc-chat-client.csproj", "{F06B9B1E-2D33-472C-9585-6F8B9DC16554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F671CC4-333F-4ED8-AC60-062B6115B507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F671CC4-333F-4ED8-AC60-062B6115B507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F671CC4-333F-4ED8-AC60-062B6115B507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F671CC4-333F-4ED8-AC60-062B6115B507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06B9B1E-2D33-472C-9585-6F8B9DC16554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06B9B1E-2D33-472C-9585-6F8B9DC16554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06B9B1E-2D33-472C-9585-6F8B9DC16554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06B9B1E-2D33-472C-9585-6F8B9DC16554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA3C479-8FFD-4D81-AA31-B3612DEA1E79}
+	EndGlobalSection
+EndGlobal
